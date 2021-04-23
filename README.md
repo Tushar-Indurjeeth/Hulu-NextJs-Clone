@@ -1,5 +1,5 @@
 # Hulu Clone
-A fully responsive Hulu clone built using NextJs and Tailwind CSS.
+A fully responsive Hulu clone built using [NextJs](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 
 ## Live demo
 [https://hulu-next-js-clone.vercel.app/](https://hulu-next-js-clone.vercel.app/)
