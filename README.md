@@ -2,7 +2,7 @@
 A fully responsive Hulu clone built using [NextJs](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 
 ## Live demo
-[https://hulu-next-js-clone.vercel.app/](https://hulu-next-js-clone.vercel.app/)
+[https://hulu-clone.tushar.co.za/](https://hulu-clone.tushar.co.za/)
 
 ## How it works
 - The data is pulled through using the [TMDB API](https://www.themoviedb.org/documentation/api).
